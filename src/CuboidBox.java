@@ -12,6 +12,6 @@ public class CuboidBox extends Box {
 
     @Override
     public double size() {
-        return (width*height*length);
+        return (width * height * length);
     }
 }

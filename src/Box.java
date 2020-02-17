@@ -5,7 +5,7 @@ public class Box {
         this.name = name;
     }
 
-    public double size(){
+    public double size() {
         return 0;
     }
 }

@@ -24,7 +24,7 @@ public class BoxArray {
                 break;
             }
         }
-        for (int j =0; j < boxes.length; j++) {
+        for (int j = 0; j < boxes.length; j++) {
             if ((czyNieWiększeOdPudełka(product, boxes[j])) && (czySięZmieści(product, boxes[j])) &&
                     (freeSpace(product, boxes[j]) < space)) {
                 najlepsze = boxes[j];

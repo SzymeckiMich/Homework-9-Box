@@ -11,7 +11,7 @@ public class CuboidProduct extends Product {
 
     @Override
     public double size() {
-        return (width*height*length);
+        return (width * height * length);
     }
 }
 

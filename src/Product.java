@@ -1,7 +1,5 @@
 public class Product {
-    public double size(){
+    public double size() {
         return 0;
     }
-
-
 }
